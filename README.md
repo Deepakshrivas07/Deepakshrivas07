@@ -52,12 +52,6 @@ Hi, I'm **Deepak Shrivas**, a **B.Tech Information Technology graduate** passion
     ├── Express.js
     ├── MongoDB
     └── REST APIs
-
-🤖 Generative AI
-    ├── LLMs
-    ├── AI Applications
-    ├── Prompt Engineering
-    └── AI-powered Web Applications
 ```
 
 ---
@@ -116,12 +110,6 @@ Hi, I'm **Deepak Shrivas**, a **B.Tech Information Technology graduate** passion
 * Generates interview reports using Generative AI
 * Full-stack architecture using React and Node.js
 
-**AI-Powered Applications**
-
-* Exploring LLM-based applications
-* Working with AI APIs and prompt engineering
-* Building practical AI-powered solutions
-
 ---
 
 # 📈 GitHub Stats
@@ -135,16 +123,6 @@ Hi, I'm **Deepak Shrivas**, a **B.Tech Information Technology graduate** passion
 <br><br>
 
 <img src="https://streak-stats.demolab.com/?user=Deepakshrivas07&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deepakshrivas07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
