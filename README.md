@@ -1,21 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&text=DEEPAK%20SHRIVAS&fontSize=52&color=0:4F46E5,100:06B6D4&fontColor=ffffff&animation=fadeIn&stroke=06B6D4&strokeWidth=2&desc=DATA%20ANALYST%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20GENERATIVE%20AI&descSize=16&descAlignY=72"/>
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=180&text=DEEPAK%20SHRIVAS&fontSize=52&fontColor=ffffff&animation=fadeIn&color=0:0F172A,50:312E81,100:06B6D4&stroke=06B6D4&strokeWidth=2"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+Web+Applications+%F0%9F%92%BB;Exploring+Generative+AI+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%9A%80" />
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=750&height=50&lines=DATA+ANALYST+%7C+FULL+STACK+DEVELOPER;PYTHON+%7C+SQL+%7C+POWER+BI;REACT+%7C+NODE.JS+%7C+MONGODB;EXPLORING+GENERATIVE+AI+%F0%9F%A4%96;BUILDING+%7C+LEARNING+%7C+ANALYZING+%F0%9F%9A%80" />
 
-<br><br>
+<br/><br/>
 
+<!-- Animated Status -->
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20%26%20LEARNING-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FOCUS-DATA%20%7C%20AI%20%7C%20WEB-7C3AED?style=for-the-badge"/>
+
+<br/><br/>
+
+<!-- Profile Stats -->
 <a href="https://github.com/Deepakshrivas07">
-<img src="https://img.shields.io/github/followers/Deepakshrivas07?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+<img src="https://img.shields.io/github/followers/Deepakshrivas07?style=for-the-badge&logo=github&label=FOLLOWERS&color=181717"/>
 </a>
+
 <a href="https://github.com/Deepakshrivas07">
-<img src="https://img.shields.io/github/stars/Deepakshrivas07?label=Stars&style=for-the-badge&logo=github&color=yellow"/>
+<img src="https://img.shields.io/github/stars/Deepakshrivas07?style=for-the-badge&logo=github&label=STARS&color=F59E0B"/>
 </a>
 
 </div>
+
+<br/>
 
 ---
 
