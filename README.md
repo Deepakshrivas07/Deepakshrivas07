@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=DEEPAK%20SHRIVAS&fontSize=48&color=0:6366f1,100:06b6d4&fontColor=ffffff&animation=fadeIn&stroke=06b6d4&strokeWidth=2&desc=Data%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20Generative%20AI&descSize=17&descAlignY=70"/>
+
+</div>
+
+<div align="center">
 # 💫 About Me:
 Hi, I'm Deepak Shrivas, a B.Tech IT graduate passionate about Data Analytics, Software Development, and Generative AI.<br><br>🎓 B.Tech in Information Technology | 2026 Graduate | CPI : 8.66<br>📊 Aspiring Data Analyst passionate about turning data into meaningful insights<br>💻 Interested in Full-Stack Development and building practical applications<br>🐍 Working with Python, Pandas, NumPy, SQL, and Power BI<br>⚛️ Experienced with React.js, Node.js, Express.js, and MongoDB<br>📈 Currently improving my skills in Data Analytics, Statistics, SQL, Power BI, and Machine Learning<br>🚀 I enjoy building projects, solving problems, and continuously learning new technologies<br>🎯 Current Focus<br><br>Data Analytics | SQL | Python | Power BI | Generative AI | Full-Stack Development<br><br>I'm always open to learning, collaborating on interesting projects, and connecting with people who are passionate about technology.
 
