@@ -1,31 +1,189 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=DEEPAK%20SHRIVAS&fontSize=48&color=0:6366f1,100:06b6d4&fontColor=ffffff&animation=fadeIn&stroke=06b6d4&strokeWidth=2&desc=Data%20Analyst%20%7C%20Full%20Stack%20Developer%20%7C%20Generative%20AI&descSize=17&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&text=DEEPAK%20SHRIVAS&fontSize=52&color=0:4F46E5,100:06B6D4&fontColor=ffffff&animation=fadeIn&stroke=06B6D4&strokeWidth=2&desc=DATA%20ANALYST%20%7C%20FULL%20STACK%20DEVELOPER%20%7C%20GENERATIVE%20AI&descSize=16&descAlignY=72"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+Web+Applications+%F0%9F%92%BB;Exploring+Generative+AI+%F0%9F%A4%96;Always+Learning+%26+Building+%F0%9F%9A%80" />
+
+<br><br>
+
+<a href="https://github.com/Deepakshrivas07">
+<img src="https://img.shields.io/github/followers/Deepakshrivas07?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+</a>
+<a href="https://github.com/Deepakshrivas07">
+<img src="https://img.shields.io/github/stars/Deepakshrivas07?label=Stars&style=for-the-badge&logo=github&color=yellow"/>
+</a>
 
 </div>
 
-<div align="center">
-# 💫 About Me:
-Hi, I'm Deepak Shrivas, a B.Tech IT graduate passionate about Data Analytics, Software Development, and Generative AI.<br><br>🎓 B.Tech in Information Technology | 2026 Graduate | CPI : 8.66<br>📊 Aspiring Data Analyst passionate about turning data into meaningful insights<br>💻 Interested in Full-Stack Development and building practical applications<br>🐍 Working with Python, Pandas, NumPy, SQL, and Power BI<br>⚛️ Experienced with React.js, Node.js, Express.js, and MongoDB<br>📈 Currently improving my skills in Data Analytics, Statistics, SQL, Power BI, and Machine Learning<br>🚀 I enjoy building projects, solving problems, and continuously learning new technologies<br>🎯 Current Focus<br><br>Data Analytics | SQL | Python | Power BI | Generative AI | Full-Stack Development<br><br>I'm always open to learning, collaborating on interesting projects, and connecting with people who are passionate about technology.
+---
 
+# 👋 About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Deepakshrivas07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepak-kumar-shrivas) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/deepak_shr90151) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakshrivas440@gmail.com) 
+Hi, I'm **Deepak Shrivas**, a **B.Tech Information Technology graduate** passionate about **Data Analytics, Full-Stack Development, and Generative AI**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Deepakshrivas07&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Deepakshrivas07&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Deepakshrivas07&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🎓 **B.Tech in Information Technology** — 2026 Graduate
+📚 **CPI:** 8.66
+📊 Aspiring **Data Analyst** who enjoys finding insights from data
+💻 Building practical and user-focused **Full-Stack applications**
+🤖 Exploring **Generative AI and AI-powered applications**
+🐍 Working with **Python, Pandas, NumPy, SQL, and Power BI**
+⚛️ Building web applications using **React, Node.js, Express.js, and MongoDB**
+📈 Currently strengthening my knowledge of **Statistics, Data Analysis, SQL, Power BI, and Machine Learning**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deepakshrivas07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+> **"Learn. Build. Analyze. Improve. Repeat." 🚀**
 
 ---
-[![](https://komarev.com/ghpvc/?username=Deepakshrivas07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🎯 What I'm Currently Focusing On
+
+```text
+📊 Data Analytics
+    ├── SQL
+    ├── Python
+    ├── Pandas & NumPy
+    ├── Statistics
+    └── Power BI
+
+💻 Full-Stack Development
+    ├── React.js
+    ├── Node.js
+    ├── Express.js
+    ├── MongoDB
+    └── REST APIs
+
+🤖 Generative AI
+    ├── LLMs
+    ├── AI Applications
+    ├── Prompt Engineering
+    └── AI-powered Web Applications
+```
+
+---
+
+# 🛠️ Tech Stack
+
+### 📊 Data Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres" />
+</p>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+
+### 💻 Full-Stack Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,redux,vite,tailwind" />
+</p>
+
+### 🤖 AI & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,postman,figma" />
+</p>
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### 📊 Data Analytics Projects
+
+**Customer Behaviour Analysis**
+
+* Analyzed customer purchasing patterns using SQL and Python
+* Performed data cleaning, aggregation, and exploratory analysis
+* Created insights to understand customer behaviour
+
+**Power BI Dashboards**
+
+* Built interactive dashboards
+* Created KPIs and analytical reports
+* Used DAX and Power Query for data transformation
+
+---
+
+### 🤖 Generative AI Projects
+
+**AI-Powered Interview Platform**
+
+* AI-based interview experience
+* Generates interview reports using Generative AI
+* Full-stack architecture using React and Node.js
+
+**AI-Powered Applications**
+
+* Exploring LLM-based applications
+* Working with AI APIs and prompt engineering
+* Building practical AI-powered solutions
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Deepakshrivas07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakshrivas07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Deepakshrivas07&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Deepakshrivas07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/deepak-kumar-shrivas">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/Deepakshrivas07">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/deepak_shr90151">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:deepakshrivas440@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Build things that solve problems."
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Deepakshrivas07&label=Profile%20Views&color=06B6D4&style=for-the-badge"/>
+
+<br><br>
+
+⭐ **Thanks for visiting my profile!** ⭐
+
+</div>
