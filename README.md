@@ -136,7 +136,7 @@ Hi, I'm **Deepak Shrivas**, a **B.Tech Information Technology graduate** passion
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/Deepakshrivas07">
+<a href="https://instagram.com/piiyushhh.07">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
